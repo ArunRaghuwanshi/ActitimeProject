@@ -3,6 +3,7 @@ package Trial;
 public class B extends A {
 	int pin;
 	String address;
+	int add;
 public B(int number, String name, double balance,int pin,String address) {
 		super(number, name, balance);
 		this.pin=pin;
