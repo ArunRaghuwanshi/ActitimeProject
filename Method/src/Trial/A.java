@@ -4,6 +4,7 @@ public class A {
 	int number ;
 	String name;
 	double balance;
+	int date;
 	
 	public A(int number,String name,double balance) {
 		
